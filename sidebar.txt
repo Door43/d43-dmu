@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dmu:home|Door43 (dmu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dmu|d43-dmu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dmu/archive/master.zip|d43-dmu.zip]]
+
+**Recent Changes**
+{{changes>ns = dmu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dmu|Ethnologue data]]
+
